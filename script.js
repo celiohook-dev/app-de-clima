@@ -54,7 +54,7 @@ async function  buscarClima() {
          <img src="https://openweathermap.org/img/wn/${dados.weather[0].icon}@4x.png" alt ="Icone do clima">
          <h1> ${Math.round(dados.main.temp)} °C</h1>
 
-         <p class="desc"> ${dados.weather[0].description} </p> 
+         <h2 class="desc"> ${dados.weather[0].description} </h2> 
 
 
          <div class="detalhes">
