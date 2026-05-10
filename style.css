@@ -72,7 +72,7 @@ input:focus{
 }
 
 button>hover{
-    background: 0ea5e9;
+    background: #0ea5e9;
     transform: translateY(-2px);
 }
 
