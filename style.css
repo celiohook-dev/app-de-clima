@@ -42,7 +42,7 @@ h1{
 }
 
 input{
-    width: 100%;
+    width: 90%;
     padding: 15px;
     border: 2px solid var(--cor-destaque);
     background: var(--cor-fundo);
